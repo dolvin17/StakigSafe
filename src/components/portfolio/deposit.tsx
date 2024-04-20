@@ -11,7 +11,7 @@ export default function Deposit() {
           </div>
         </div>
       </div>
-      <Link href="/">
+      <Link href="/stake">
         <div className="bg-[#adff02] font-black text-xl p-4 mt-8 rounded-lg text-center hover:bg-lime-200 hover:text-black">
           Deposit {"&"} Stake
         </div>

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Deposit from "@/components/portfolio/Deposit";
+import Deposit from "@/components/portfolio/deposit";
 import Navigation from "@/components/navigation/navigation";
 import Assets from "@/components/portfolio/assets";
 
