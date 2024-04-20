@@ -12,7 +12,7 @@ export default function Transfer() {
               <IoIosArrowDropdown />
             </Link>
           </div>
-          <div className="text-3xl font-black ">$232</div>
+          <div className="text-3xl font-black ">$1260</div>
         </div>
         <Link href="/">
           <div className="rounded-xl bg-white/10 flex text-[#adff02] items-center justify-center p-4 hover:bg-white hover:text-black">
@@ -21,7 +21,7 @@ export default function Transfer() {
         </Link>
       </div>
       <Link href="/">
-        <div className="bg-[#adff02] p-4 mt-8 rounded-lg text-center hover:bg-lime-200 hover:text-black">
+        <div className="bg-[#adff02] text-xl font-black text-black p-4 mt-8 rounded-lg text-center hover:bg-lime-200 hover:text-black">
           Transfer
         </div>
       </Link>
