@@ -15,13 +15,13 @@ export default function Transfer() {
           <div className="text-3xl font-black ">$232</div>
         </div>
         <Link href="/">
-          <div className="rounded-xl bg-white/10 flex items-center justify-center p-4 hover:bg-white hover:text-black">
+          <div className="rounded-xl bg-white/10 flex text-[#adff02] items-center justify-center p-4 hover:bg-white hover:text-black">
             Add / Withdraw
           </div>
         </Link>
       </div>
       <Link href="/">
-        <div className="bg-orange-500 p-4 mt-8 rounded-lg text-center hover:bg-white hover:text-black">
+        <div className="bg-[#adff02] p-4 mt-8 rounded-lg text-center hover:bg-lime-200 hover:text-black">
           Transfer
         </div>
       </Link>
