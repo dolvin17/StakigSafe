@@ -24,7 +24,7 @@ export default function Stake() {
 	  <label className="flex items-center mt-32 border-2 border-[#adff02] bg-[#adff02]/30 backdrop-blur-sm rounded-xl">
         <input
           className="flex-grow w-full p-4 border-2 text-black bg-transparent border-black outline-none rounded-xl"
-          placeholder="123 AAVE"
+          placeholder="123 USDC"
           inputMode="decimal"
           autoComplete="off"
           autoCorrect="off"
@@ -35,8 +35,8 @@ export default function Stake() {
           className="flex flex-row hover:bg-white justify-center  gap-2 p-5 py-1 font-semibold text-black  rounded-lg disabled:opacity-50"
           disabled={false}
 		  >
-          AAVE
-          <Image src="/aave.png" alt="arrow-right" width={24} height={10} />
+          USDC
+          <Image src="/usdc.png" alt="arrow-right" width={24} height={10} />
         </button>
       </label>
 		<Link href="/">

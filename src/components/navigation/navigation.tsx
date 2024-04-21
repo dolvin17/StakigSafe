@@ -17,7 +17,7 @@ export default function Navigation() {
           </Link>
           <Link href="/portfolio">
             <div className="text-[#adff02] hover:scale-125  m-2 w-[200px] text-center border-[#adff02] rounded-xl border-2 border-double bg-black p-4 ">
-              Portfolio
+              Stake
             </div>
           </Link>
           <Rkbutton />
