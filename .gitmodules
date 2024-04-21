@@ -1,0 +1,3 @@
+[submodule "melon-contracts"]
+	path = melon-contracts
+	url = https://github.com/D3Portillo/melon-contracts.git
