@@ -10,7 +10,7 @@ export default function Navigation() {
           <Image alt="sol" src="/fam23.png" width={150} height={50} />
         </Link>
         <div className="items-center">
-          <Link href="/permitionsless">
+          <Link href="/">
             <div className="text-[#adff02] hover:scale-125  m-2 w-[200px] text-center border-[#adff02] rounded-xl border-2 border-double bg-black p-4 ">
               Home
             </div>
